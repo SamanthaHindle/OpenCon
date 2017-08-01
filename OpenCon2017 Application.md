@@ -16,8 +16,8 @@ I have long been pro-open but, to me, this meant open dissemination of finished 
 
 #### Event Participation^
 ##### All of the events listed below are global and open to participation, so anyone, anywhere can be involved. Please indicate which of the following events you have participated in, or plan to participate in next year. Check all that apply.
-Open Access Week
-Open Education Week
+- [x] Open Access Week
+- [x] Open Education Week
 ##### For the events you checked, briefly explain what you did or plan to do. Maximum 700 characters (~100 words).
 
 For October's OA week, I am in discussion with the UCSF library to host a preprint information session and panel event as their main OA week event. I aim to invite representatives from various stakeholders, including journal editors, funders, University policy makers, and academics that have experience posting preprints. This will enable open discussion about the current state and future milestones for the preprint ecosystem. My aim is to video the information session component to provide an educational resource for other institutions, which will be disseminated in preparation for OE week in March 2018. 
